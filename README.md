@@ -33,7 +33,7 @@ Follow these steps to set up the bot on your Discord server:
    ```
 
 3. Configure the bot:
-   - Edit the `config.json` file to add your bot token and other settings.
+   - Edit the `.env` file to add your bot token and other settings.
 
 4. Run the bot:
    ```bash
