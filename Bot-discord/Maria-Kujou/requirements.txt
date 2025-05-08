@@ -1,0 +1,6 @@
+discord
+google.generativeai
+dotenv
+Pillow
+requests
+googlesearch
